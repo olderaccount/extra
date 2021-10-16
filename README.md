@@ -1,6 +1,6 @@
 ### not mine, hosting here
 
-https://onehtmlpagechallenge.com
+[one html](https://onehtmlpagechallenge.com)
 
 [ascii camera](https://malikmiran.github.io/extra/asciicam)
 
@@ -14,6 +14,5 @@ https://onehtmlpagechallenge.com
 
 [Extra](https://malikmiran.github.io/extra)
 
-https://codepen.io/jakealbaugh/pen/JjRGQPY
-
-[Chess](https://malikmiran.github.io/extra/chess) {atleast in this one i changed typescript to javasc}
+[Chess](https://malikmiran.github.io/extra/chess)
+[Orignal](https://codepen.io/jakealbaugh/pen/JjRGQPY)(atleast in this one i changed typescript to javasc)
