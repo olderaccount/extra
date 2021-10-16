@@ -12,7 +12,7 @@
 
 [Above Source](https://onehtmlpagechallenge.com)
 
-[Extra](https://malikmiran.github.io/extra)
+[Clock](https://malikmiran.github.io/clock)
 
 [Chess](https://malikmiran.github.io/extra/chess)
 {[Orignal](https://codepen.io/jakealbaugh/pen/JjRGQPY)(atleast in this one i changed typescript to javasc)}
