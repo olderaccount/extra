@@ -15,4 +15,4 @@
 [Extra](https://malikmiran.github.io/extra)
 
 [Chess](https://malikmiran.github.io/extra/chess)
-[Orignal](https://codepen.io/jakealbaugh/pen/JjRGQPY)(atleast in this one i changed typescript to javasc)
+{[Orignal](https://codepen.io/jakealbaugh/pen/JjRGQPY)(atleast in this one i changed typescript to javasc)}
