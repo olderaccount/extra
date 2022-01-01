@@ -1,18 +1,18 @@
 ### not mine, hosting here
 
-[ascii camera](https://malikmiran.github.io/extra/asciicam)
+[ascii camera](https://olderaccount.github.io/extra/asciicam)
 
-[fall](https://malikmiran.github.io/extra/fall)
+[fall](https://olderaccount.github.io/extra/fall)
 
-[game of life](https://malikmiran.github.io/extra/gameoflife)
+[game of life](https://olderaccount.github.io/extra/gameoflife)
 
-[Minesweeper](https://malikmiran.github.io/extra/minesweeper)
+[Minesweeper](https://olderaccount.github.io/extra/minesweeper)
 
-[tic tac toe](https://malikmiran.github.io/extra/tictac)
+[tic tac toe](https://olderaccount.github.io/extra/tictac)
 
 [Above Source](https://onehtmlpagechallenge.com)
 
-[Clock](https://malikmiran.github.io/extra/clock)
+[Clock](https://olderaccount.github.io/extra/clock)
 
-[Chess](https://malikmiran.github.io/extra/chess)
+[Chess](https://olderaccount.github.io/extra/chess)
 {[Orignal](https://codepen.io/jakealbaugh/pen/JjRGQPY)(atleast in this one i changed typescript to javasc)}
